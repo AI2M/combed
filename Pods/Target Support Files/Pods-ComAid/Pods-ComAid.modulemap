@@ -1,0 +1,6 @@
+framework module Pods_ComAid {
+  umbrella header "Pods-ComAid-umbrella.h"
+
+  export *
+  module * { export * }
+}
